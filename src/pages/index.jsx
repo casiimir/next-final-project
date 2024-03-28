@@ -17,3 +17,11 @@ export default function Home() {
     </>
   );
 }
+
+// 0.5 git pull di main
+// 1. creato la branch per la nuova feat => git checkout -b feat/navbar (la branch nuova va sempre creata da main allineato, quindi punto 0.5)
+// 2. git status - giusto per vedere la situa
+// 3. git add . - tutti i file modificati (o creati) vengono salvati per il commit
+// 4. git commit -m "head: body..." - crea un commit
+// 5. andiamo in REMOTO => git push
+// 5.2 upstream
